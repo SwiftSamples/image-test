@@ -1,0 +1,16 @@
+PODS:
+  - GSImageViewerController (1.6.2)
+
+DEPENDENCIES:
+  - GSImageViewerController
+
+SPEC REPOS:
+  trunk:
+    - GSImageViewerController
+
+SPEC CHECKSUMS:
+  GSImageViewerController: 3b8fb7d2ab7596152329d7910eeb1905b2284cb9
+
+PODFILE CHECKSUM: 143cc0bb55c1c079b6553f9ddc835fff131ace2e
+
+COCOAPODS: 1.10.0
